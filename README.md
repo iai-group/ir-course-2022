@@ -40,7 +40,7 @@ The overall grade came from two components, both of which needed to be >F in ord
 
 | **Id** | **Topic** | **Resources** | 
 | -- | -- | -- |
-| 1 | Feature extraction | [lecture](assignments/A0) |
+| 1 | Feature extraction | [assignment](assignments/A0) |
 | 2 |  |  |
 | 3 |  |  |
 | 4 |  |  |
