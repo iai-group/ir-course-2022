@@ -81,16 +81,21 @@ You also need to attach a section on **Division of Work During the Project** as 
 
 ## Evaluation
 
-  * **Problem understanding** (8 points)
+  * **Problem understanding** (10 points)
     - Demonstrating your understanding of the chosen project, by clearly explaining the problem at hand and the challenges involved.
     - Identifying the main families of approaches developed for the task at hand (i.e., literature review).
-  * **Baseline method** (10 points)
+  * **Baseline method** (15 points)
     - Selecting a sensible baseline, implementing and evaluating it using the given benchmark dataset.    
-  * **Advanced method(s)** (12 points)
+  * **Advanced method(s)** (10 points)
     - Selecting an interesting or performant advanced method or developing a novel approach from scratch, implementing and evaluating it experimentally.
-    - Points are awarded for convincing motivation, creativity, overall performance (improvements over the baseline).
-  * **Report** (15 points)
-    - Reporting the problem, methods, key decisions, and results in a clear and structured manner.
-    - The report should contain sufficient details for one to be able to reproduce the results based on the provided description. It should properly attribute and reference related work as well as use visual tools (such as illustrations, plots and tables) to support and communicate the findings effectively.
+    - Points are awarded for convincing motivation, creativity, reproducibility, overall performance (improvements over the baseline).
+  * **Report** (10 points)
+    - Clearly explaining the motivation or rationale behind the choices made.
+    - Documenting key technical decisions to support future reproducibility.
+    - This requires details with accessible wording and structure in a way that your results are reproducible based on the provided description.
+    - Producing insight into the process through analysis and discussion of results.
+    - Use visual tools, such as illustrations, plots, and tables, to support and communicate your findings.
   * **Code quality** (5 points)
-    - Producing clearly structured, well-documented, and readable code.
+    - Structured and readable code.
+    - Readability includes sensible variable/method naming conventions and adding docstrings/comments where necessary.
+    - Code quality refers to how easily an external person can work with the submitted code.
