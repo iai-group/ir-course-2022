@@ -12,7 +12,7 @@ The semester (consisting of 13 weeks) was divided into two periods: (1) lectures
 
 The overall grade came from two components, both of which needed to be >F in order to pass:
 
-  * 40% Project work. Half of the score came from the [individual assignments](assignments/) and another half from the [group project](project/).
+  * 40% Project work. Half of the score came from the individual assignments and another half from the [group project](project/).
   * 60% Written (digital) exam.
 
 
