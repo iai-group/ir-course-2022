@@ -1,8 +1,6 @@
 # Group project
 
-## Objectives
-
-The objective of project work is to apply the knowledge gained in the course, in a group setting, to a selected (open) information retrieval problem.
+The objective of project work was to apply the knowledge gained in the course, in a group setting, to a selected (open) information retrieval problem.
 Specifically, groups first needed to establish a reasonable baseline, then develop one or multiple advanced methods aiming to improve over the baseline. Using a standard test collection, they had to experimentally compare the baseline and advanced solutions.
 
 ## Projects
@@ -33,8 +31,9 @@ The following projects were available to choose from:
       - Papers: [Balog & Neumayer (2012)](https://krisztianbalog.com/files/cikm2012-querytypes.pdf), [Garigliotti et al. (2017)](https://krisztianbalog.com/files/sigir2017-qt.pdf), [Setty & Balog (2020)](https://krisztianbalog.com/files/iswc2020-smart.pdf)
     - [Discussion group (on Canvas)](https://stavanger.instructure.com/courses/8838/discussion_topics/120145)
 
+## Instructions
 
-## Workflow and rules
+### Workflow and rules
 
   * You'll need to hand in a report using the specified project template. The page limit for the report is 4 A4 pages (in double column format).
   * You'll also need to submit your code and the generated output files so that we can verify your solution and results.
@@ -43,7 +42,7 @@ The following projects were available to choose from:
   * Some of the problems involve working with large datasets. If you need server access, you'll need to contact the Unix system administrator.
   * While you are expected to work independently as a group, you'll have the possibility to get feedback on your ideas in a regular weekly basis. For each group, there will be a weekly dedicated 15 mins slot to discuss the project with the lecturer and student assistant. Also, there is an internal intermediate deadline for getting feedback on the draft of your report.
 
-## Timeline
+### Timeline
 
 While the following is merely a recommendation, it may help you to stay on course.
 
@@ -60,13 +59,13 @@ While the following is merely a recommendation, it may help you to stay on cours
     - Experiment with additional methods or refinements of your advanced method
     - Finalize your report
 
-## Report
+### Report
 
   * Use the [ACM two-column template](https://www.acm.org/publications/proceedings-template) for the report.
   * It is highly recommended that you use LaTeX.  A template made specifically for the project report is made available on [Overleaf](https://www.overleaf.com/read/sqhpmsfdpdxh).
   * **NB: Include the Team ID assigned to you in the report title or subtitle.**
 
-### Structure
+#### Structure
 
 Structure your paper according to the following sections:
 
@@ -79,7 +78,7 @@ Structure your paper according to the following sections:
 
 You also need to attach a section on **Division of Work During the Project** as an appendix, with a short paragraph describing the contributions of each student in the project, and a statement on how you split the task and the workload between team members. This section does not count towards the 4-page limit.
 
-## Evaluation
+### Evaluation
 
   * **Problem understanding** (10 points)
     - Demonstrating your understanding of the chosen project, by clearly explaining the problem at hand and the challenges involved.
